@@ -36,7 +36,7 @@ El proyecto se encuentra en una fase activa de desarrollo. Continuamos trabajand
 - pdf2image
 
 ### Instalación
-'''
+```
 !pip install streamlit==1.28.1
 !pip install streamlit-javascript==0.1.5
 !pip install streamlit-option-menu==0.3.6
@@ -45,16 +45,19 @@ El proyecto se encuentra en una fase activa de desarrollo. Continuamos trabajand
 !pip install openai==1.3.2
 !pip install PyPDF2==3.0.1
 !pip install pdf2image==1.16.3
-'''
+```
 
 ## Uso
-Abre una terminal en tu entorno usual de python o conda y dirigete a la dirección donde descargaste el repositorio o guardar tus forks. Una vez te encuentres en la carpeta de la aplicación 
+Abre una terminal en tu entorno usual de python o conda y dirigete a la dirección donde descargaste o clonaste el repositorio. Una vez te encuentres en la carpeta de la aplicación, ejecuta en la terminal: 
 
-'''
-'''
+```
+streamlit run main.py
+```
 
-Instrucciones sobre cómo usar el proyecto o el software.
-Ejemplos de código o comandos.
+### Flujo de trabajo
+
+![Descripción de la imagen](/resources/workflow/1 - home.png)
+
 
 ## Contribución
 
