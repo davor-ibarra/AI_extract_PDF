@@ -56,7 +56,8 @@ streamlit run main.py
 
 ### Flujo de trabajo
 
-<image src="/resources/workflow/1home.png alt="Home">
+<image src="/resources/workflow/1home.png" alt="Home">
+![Home](/resources/workflow/1home.png)
 
 
 ## Contribución
