@@ -32,3 +32,12 @@ Agradecemos cualquier contribución que ayude a mejorar y expandir la herramient
 
 ### Reporte de Errores y Sugerencias
 Si encuentras un error o tienes sugerencias para mejorar la herramienta, por favor levanta un issue en el repositorio de GitHub. Proporciona tanta información como sea posible para que podamos entender y abordar el problema eficientemente.
+
+## Otros proyectos similares
+Agredecer de antemano la discución y aportes sobre identificación de otras tecnologías que busquen objetivos similares a los indicados en este proyecto. A continuación se propone la revisión de las siguientes tecnologías:
+
+- Salatino, Angelo; Osborne, Francesco andMotta, Enrico (2020). ResearchFlow: Understanding theKnowledge FlowbetweenAcademiaandIndustry. In:Proceedingsofthe22ndInternationalConferenceonKnowledgeEngineering andKnowledgeManagement (Keet,C.MariaandDumontier,Michel eds.),LectureNotes inComputerSciencevol 12387,Springer,pp. 219–236.
+- Iris.iA
+- Elicit.ia
+- Research Rabbit
+- PaperDigest
