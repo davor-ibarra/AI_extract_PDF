@@ -55,9 +55,26 @@ streamlit run main.py
 ```
 
 ### Flujo de trabajo
-
+1. Página de bienvenida
 <image src="/resources/workflow/1home.png" alt="Home">
-![Home](/resources/workflow/1home.png)
+2. Configura tu modelo y llaves de acceso en el panel izquierdo, tambien puedes ajustar algunos parametros del modelo.
+<image src="/resources/workflow/2 - config model.png" alt="config model">
+3. Se recomienda cerrar el panel lateral al comenzar el flujo de trabajo, de esta forma contarás con mayor espacio para el proceso de extracción. El flujo de trabajo comienza con la sección de INPUT, puedes cargar un archivo PDF para que se comprima y se almacene en la carpeta correspondiente o de lo contrario preparar los documentos con anterioridad en la carpeta mencionada. 
+<image src="/resources/workflow/3 - charge file.png" alt="charge file">
+4. Luego, debes seleccionar el articulo que deseas procesar.
+<image src="/resources/workflow/4 - select pdf.png" alt="select_pdf">
+5. En la segunda sección, puedes activar la visualización del PDF para una extracción manual o para verificación de información (si has activado la opción y el PDF no se visualiza, lo más probable es que el tamaño supere el limite máximo de visualización)
+<image src="/resources/workflow/5 - see pdf.png" alt="see pdf">
+6. Al activar la asistencia, se activa el procesamiento del contenido del PDF. En la primera pestaña, podrás ajustar instrucciones específicas para tu agente, las cuales se guardarán en la carpeta "agents".
+<image src="/resources/workflow/6 - config agent.png" alt="confi">
+7. En la segunda pestaña podrás seleccionar los agentes que quieres utilizar en caso de extración con instrucciones específica.
+<image src="/resources/workflow/7 - select assistance.png" alt="Home">
+8. Luego, ya puedes comenzar con tu asistente a solicitar información sobre el documento seleccionado 
+<image src="/resources/workflow/8 - response.png" alt="Home">
+9. A continuación, se muestra un ejemplo de como puedes ir almacenando el contenido en las etiquetas y como estas se almacenan en un JSON en la carpeta de salida "output"
+<image src="/resources/workflow/9 - save item.png" alt="Home">
+10. Para cualquier duda, sugerencia o comentario, no dude en contactarnos.
+<image src="/resources/workflow/10 - contact.png" alt="Home">
 
 
 ## Contribución
