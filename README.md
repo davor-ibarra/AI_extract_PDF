@@ -105,7 +105,7 @@ Si encuentras un error o tienes sugerencias para mejorar la herramienta, por fav
 
 - Universidad de Santiago de Chile
 - Vicerrectoría de Investigación, Innovación y Creación.
-- Equipo INES-USACH
+- Equipo INES-USACH (Samanta, Diego, Claudia, Tania y el resto del equipo)
 - Agencia Nacional de Investigación y Desarrollo del Gobierno de Chile.
 
 ## Contacto
