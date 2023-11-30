@@ -111,3 +111,7 @@ Si encuentras un error o tienes sugerencias para mejorar la herramienta, por fav
 ## Contacto
 
 davor.ibarra@usach.cl
+
+## Licencia
+
+The results will be of free access and use under the **license Attribution 4.0 International (CC BY 4.0)**. For their use, their origin must be duly mentioned and their authorship acknowledged. It is forbidden to use the data for scientific publications that are not in collaboration or prior agreement with the authors of these.
