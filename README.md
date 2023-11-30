@@ -6,11 +6,11 @@ Este proyecto desarrolla una herramienta basada en inteligencia artificial para 
 
 ## Tabla de Contenidos
 
-1. Introducción
-2. Estado del Proyecto
-3. Cómo Empezar
-4 Uso
-5. Contribución
+- Introducción
+- Estado del Proyecto
+- Cómo Empezar
+- Uso
+- Contribución
 - Construido Con
 - Autores y Reconocimientos
 - Contacto
