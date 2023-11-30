@@ -56,7 +56,7 @@ streamlit run main.py
 
 ### Flujo de trabajo
 1. Página de bienvenida
-<image src="resources/workflow/1home.png" alt="Home">
+<image src=".../resources/workflow/1home.png" alt="Home">
 2. Configura tu modelo y llaves de acceso en el panel izquierdo, tambien puedes ajustar algunos parametros del modelo.
 <image src="/resources/workflow/2 - config model.png" alt="config model">
 3. Se recomienda cerrar el panel lateral al comenzar el flujo de trabajo, de esta forma contarás con mayor espacio para el proceso de extracción. El flujo de trabajo comienza con la sección de INPUT, puedes cargar un archivo PDF para que se comprima y se almacene en la carpeta correspondiente o de lo contrario preparar los documentos con anterioridad en la carpeta mencionada. 
