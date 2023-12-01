@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "name_file": "2019Cofelice.pdf",
+    "type_doc": "Article",
+    "title": "Development of Lemongrass Essential Oil Incorporated Films Based on Sodium Alginate",
+    "authors": "Cofelice, M., Cuomo, F., & Lopez, F.",
+    "date_doc": "2019",
+    "doi": "10.3390/colloids3030058"
+  },
+  "data_extracted": {
+    "film_development": "1. Primary emulsions prepared by mixing LEO (0.5–2.5% w/w) as lipidic phase and Tween 80 \n        (1.5% w/w) as surface active agent in an aqueous suspension of sodium alginate (1% w/w).\n        2. Homogenization with an Ultra-Turrax rotor-stator homogenizer at 20000 rpm for 4 min.\n        3. Ultrasonic treatment for 20 min at 40% amplitude with 1 s pulses.\n        4. Film-forming dispersions with LEO by mixing primary emulsions into alginate solution.\n        5. Spreading formulation on Teflon disks and drying at room temperature (RH 45–50%).\n        6. Equilibration at 25 °C in desiccators containing Mg(NO3)2.\n        7. Crosslinking with CaCl2 0.1 M solution.",
+    "materials": "Food-grade sodium alginate, Tween 80, Lemongrass Essential Oil (LEO), Calcium chloride, Mg(NO3)2, P2O5, and ultra-pure water.",
+    "concentration_and_properties": {
+									"ID": ["A", "A-Ca", "A-T", "A-T-Ca", "A-T-LEO L", "A-T-LEO L-Ca", "A-T-LEO H", "A-T-LEO H-Ca"],
+									"XA": ["100", "92", "77", "72", "71", "67", "55", "53"],
+									"XT80": ["0", "0", "23", "22", "21", "20", "17", "16"],
+									"X CaCl2": ["0", "8", "0", "6", "0", "6", "0", "5"],
+									"XLEO": ["0", "0", "0", "0", "8", "7", "28", "26"],
+									"Tensile Strength (MPa)": ["80 ± 5", "133 ± 16", "82 ± 5", "77 ± 27", "70 ± 7", "122 ± 18", "70 ± 7", "72 ± 16"],
+									"Elongation at Break (%)": ["5 ± 1", "7 ± 2", "11 ± 1", "5 ± 3", "9 ± 3", "11 ± 3", "7 ± 2", "4 ± 2"],
+									"Thickness (μm)": ["50 ± 4", "62 ± 7", "61 ± 4", "89 ± 16", "66 ± 6", "83 ± 12", "64 ± 6", "91 ± 16"]
+								}
+  }
+}

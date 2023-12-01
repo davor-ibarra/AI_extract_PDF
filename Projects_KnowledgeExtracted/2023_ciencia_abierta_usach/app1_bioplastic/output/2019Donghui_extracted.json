@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "name_file": "2019Donghui.pdf",
+        "type_doc": "Article",
+        "title": "Physical and antimicrobial properties of edible films containing Lactococcus lactis",
+        "authors": "Donghui Ma, Yue Jiang, Saeed Ahmed, Wen Qin, Yaowen Liu",
+        "date_doc": "2019",
+        "doi": "10.1016/j.ijbiomac.2019.09.006"
+    },
+    "data_extracted": {
+        "film_development": "1. Se prepararon soluciones de alginato sódico (SA)/carboximetilcelulosa (CMC), SA/colágeno (Col) y CMC/Col.\n 2. Para la solución SA/CMC, se dispersaron 2 g de SA, 0.3 g de CMC y 2 g de glicerol en 100 mL de agua destilada bajo agitación magnética.\n 3. Para la solución SA/Col, se dispersaron 2 g de SA, 4 g de Col y 2 g de glicerol en 100 mL de agua destilada bajo agitación magnética. \n 4. Para la solución CMC/Col, se dispersaron 2 g de CMC y 4 g de Col en 100 mL de agua destilada bajo agitación magnética, luego se plastificó con 2 g de glicerol y se ajustó el pH a 7.0 con NaOH 2.0 M.\n 5. Se añadieron bacterias recogidas por centrifugación a la solución a razón de 1.0 g/100 g de solución de película.\n 6. La mezcla resultante se agitó en un baño de agua a 30 °C durante 30 minutos para asegurar una mezcla completa, y luego se dejó asentar en el baño de agua durante otros 30 minutos para la eliminación de espuma.\n 7. Finalmente, se vertieron 25 g de la mezcla preparada en una placa de vidrio y se dejaron secar a 30 °C durante 24 horas.\n 8. Tras la formación, la película se retiró y se equilibró en una cámara climatizada a 25 °C y 50% de humedad relativa durante 24 horas para su uso posterior.",
+        "materials": "- Alginato sódico (SA): utilizado en concentraciones de 2 g/100 mL.\n - Carboximetilcelulosa (CMC): utilizada en concentraciones de 0.3 g/100 mL para la solución SA/CMC y 2 g/100 mL para la solución CMC/Col.\n - Colágeno (Col): extraído de escamas de pescado, utilizado en concentraciones de 4 g/100 mL.\n - Glicerol: utilizado como plastificante en todas las soluciones en concentraciones de 2 g/100 mL.\n - NaOH 2.0 M: utilizado para ajustar el pH de la solución CMC/Col a 7.0.\n - Bacterias Lactococcus lactis: añadidas a la solución en una concentración de 1.0 g/100 g de solución de película​​.",
+        "concentration_and_properties": {
+										"SA": ["SA/CMC", "SA/Col", "SA/CMC/Lla", "SA/Col/Lla", "CMC/Col", "CMC/Col/Lla"],
+										"CMC": ["21.505376", "18.181818", "21.505376", "18.181818", "21.505376", "21.505376"],
+										"Col": ["3.225806", "18.181818", "3.225806", "18.181818", "3.225806", "3.225806"],
+										"Glicerol": ["43.010753", "36.363636", "43.010753", "36.363636", "43.010753", "43.010753"],
+										"Lactococcus lactis": ["21.505376", "18.181818", "21.505376", "18.181818", "21.505376", "21.505376"],
+										"Thickness (μm)": ["450 ± 30", "510 ± 20", "510 ± 40", "560 ± 40", "530 ± 60", "550 ± 70"],
+										"Tensile Strength (MPa)": ["21.82 ± 3.16", "17.38 ± 1.76", "17.27 ± 1.79", "14.96 ± 2.46", "13.99 ± 1.33", "12.56 ± 0.71"],
+										"Elongation at Break (%)": ["25.17 ± 2.7", "19.51 ± 3.91", "22.56 ± 3.89", "18.17 ± 1.40", "15.64 ± 2.63", "14.96 ± 1.57"]
+									}
+    }
+}

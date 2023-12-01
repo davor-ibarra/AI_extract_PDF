@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "name_file": "2019Lee.pdf",
+        "type_doc": "Article",
+        "title": "Rheological, morphological, mechanical, and water-barrier properties of agar/gellan gum/montmorillonite clay composite films",
+        "authors": "Hansong Lee, Balasubramanian Rukmanikrishnan, Jaewoong Lee",
+        "date_doc": "2019",
+        "doi": "10.1016/j.ijbiomac.2019.09.021"
+    },
+    "data_extracted": {
+        "film_development": "1. Se prepararon películas nanocompuestas de AGM (con 0, 2.5, 5.0, 7.5 y 10 % en peso de MMT) mediante el método de fundición en solución.\n 2. Primero, se mezclaron 1 g de agar y 1 g de goma gellan con 1 g de glicerina y 0.5 g de cloruro de calcio.\n 3. Luego, la mezcla se añadió a 66 ml de agua destilada, agitando vigorosamente a 80 °C durante 30 minutos.\n 4. Además, la arcilla MMT se dispersó en agua destilada (30 ml) mediante sonicación durante 60 minutos a 25 °C.\n 5. Posteriormente, la MMT dispersa se mezcló con la solución de agar y goma gellan. La solución se agitó durante 30 minutos hasta obtener una solución homogénea.\n 6. La solución se enfrió a 60 °C, y la solución final formadora de película se vertió uniformemente sobre una placa de vidrio.\n 7. Todas las películas se secaron a temperatura ambiente (25 °C) durante 48 horas y luego se retiraron de la placa de vidrio.\n 8. Se preparó una serie de películas compuestas AG, AGM-2.5, AGM-5, AGM-7.5 y AGM-10 bajo condiciones similares con diferentes porcentajes en peso de MMT (0, 2.5, 5, 7.5 y 10 %).",
+        "materials": "- Agar: 1 g.\n - Goma gellan: 1 g.\n - Glicerina: 1 g (utilizada como plastificante).\n - Cloruro de calcio: 0.5 g.\n - Arcilla MMT: Añadida en porcentajes en peso de 0, 2.5, 5.0, 7.5 y 10 %​​.",
+        "concentration_and_properties": {
+										"ID": ["AG", "AGM-2.5", "AGM-5.0", "AGM-7.5", "AGM-10"],
+										"Agar": ["2.0", "2.0", "2.0", "2.0", "2.0"],
+										"Gellan Gum": ["2.0", "2.0", "2.0", "2.0", "2.0"],
+										"Glycerin": ["2.0", "2.0", "2.0", "2.0", "2.0"],
+										"Calcium Chloride": ["1.0", "1.0", "1.0", "1.0", "1.0"],
+										"MMT": ["0.0", "2.5", "5.0", "7.5", "10.0"],
+										"Thickness (μm)": ["0.10 ± 0.01", "0.09 ± 0.01", "0.12 ± 0.01", "0.11 ± 0.01", "0.11 ± 0.00"],
+										"Tensile Strength (MPa)": ["29.9 ± 1.2", "35.3 ± 1.3", "39.4 ± 0.8", "43.2 ± 0.9", "44.0 ± 1.4"],
+										"Elongation at Break (%)": ["29.5 ± 0.9", "24.1 ± 0.8", "22.4 ± 1.1", "20.7 ± 0.8", "19.9 ± 0.8"]
+									}
+    }
+}

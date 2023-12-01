@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name_file": "2020saritas.pdf",
+    "type_doc": "Research Article",
+    "title": "Evaluation of alginate and zein films as a carrier of natamycin to increase the shelf life of kashar cheese",
+    "authors": "Gökce Saritaş Küçük, Ömer Faruk Çelik, Bekir Gökçen Mazi, Hasan Türe",
+    "date_doc": "2019",
+    "doi": "10.1002/pts.2483"
+  },
+  "data_extracted": {
+    "film_development": "1. Preparación de películas de Zein:\n - Se homogeneizó zein (3.5 g) en etanol al 80% (20 mL).\n - Se utilizó un agitador magnético a 350 rpm.\n - Se añadió una cantidad óptima de glicerol (500 μL) una vez que la solución comenzó a hervir.\n - La solución de la película (10 g, aproximadamente 11-12 mL) se vertió en platos de petri de poliéster y se secó a temperatura ambiente durante 72 horas.\n 2. Preparación de películas de Alginato:\n - Alginato (0.4 g) se homogeneizó en agua destilada (20 mL).\n - Se usó un proceso similar al de la película de zein, con agitación magnética a 350 rpm.\n - Una vez que la solución de alginato comenzó a hervir, se vertieron 10 g de la solución en platos de petri de poliéster de 90 mm de diámetro.\n - Se secaron a temperatura ambiente durante 72 horas​​.",
+    "materials": "Zeína (3.5 g), Alginato (0.4 g), Glicerol (500 μL), Natamicina (0, 100, 200, 500, 1000, 2000, 4000 ppm)",
+    "concentration_and_properties": {
+									"ID": ["Control", "100 ppm", "200 ppm", "500 ppm", "1000 ppm", "2000 ppm", "4000 ppm", "Control", "100 ppm", "200 ppm", "500 ppm", "1000 ppm", "2000 ppm", "4000 ppm"],
+									"Alginate Concentration (%)": ["100", "100", "100", "100", "100", "100", "100", "0", "0", "0", "0", "0", "0", "0"],
+									"Zein Concentration (%)": ["0", "0", "0", "0", "0", "0", "0", "100", "100", "100", "100", "100", "100", "100"],
+									"Natamycin (ppm)": ["0", "100", "200", "500", "1000", "2000", "4000", "0", "100", "200", "500", "1000", "2000", "4000"],
+									"Tensile Strength (MPa)": ["280.82 ± 159.20", "355.07 ± 189.10", "610.04 ± 275.10", "503.10 ± 161.70", "629.60 ± 55.40", "830.90 ± 114.90", "469.00 ± 201.30", "1.00 ± 0.17", "1.30 ± 0.65", "3.70 ± 1.26", "1.60 ± 0.70", "1.40 ± 0.76", "0.40 ± 0.16", "1.50 ± 0.52"],
+									"Elongation at Break (%)": ["3.447 ± 0.002", "3.446 ± 0.001", "3.449 ± 0.002", "3.446 ± 0.001", "3.270 ± 0.248", "3.446 ± 0.001", "3.446 ± 0.001", "3.45 ± 0.001", "1.14 ± 0.623", "2.77 ± 0.814", "0.96 ± 0.362", "1.09 ± 0.462", "0.67 ± 0.155", "1.76 ± 0.384"]
+								}
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "name_file": "2020Swarup.pdf",
+        "type_doc": "Art\u00edculo cient\u00edfico",
+        "title": "Effect of CuS reinforcement on the mechanical water vapor barrier UV-light barrier and antibacterial properties of alginate-based composite films",
+        "authors": "Swarup Roy, Jong-Whan Rhim",
+        "date_doc": "2020",
+        "doi": "https://doi.org/10.1016/j.ijbiomac.2020.07.092"
+    },
+    "data_extracted": {
+        "film_development": "- Se dispersaron varias concentraciones de CuSNP (0.0, 0.5, 1.0, y 1.5 wt% basado en alginato) en 150 mL de agua destilada.\n - La mezcla se sometió a agitación vigorosa y ultrasonidos durante 20 minutos, seguida de homogeneización a 5000 rpm durante 10 minutos.\n - Se añadió glicerol (30 wt% basado en alginato) a la suspensión, seguido de la adición lenta de 3 g de alginato.\n - La mezcla se calentó a 80 °C durante 20 minutos con agitación continua.\n - La solución formadora de película se vertió en placas de vidrio recubiertas con Teflón y se secó a temperatura ambiente durante 48 horas.\n - Las películas secas se acondicionaron en una cámara de humedad a 25 °C y 50% de HR durante al menos 48 horas antes de las pruebas.",
+        "materials": "- Alginato: 3 g.\n - CuSNP: 0.0, 0.5, 1.0, y 1.5 wt% basado en alginato.\n - Agua destilada: 150 mL.\n - Glicerol: 30 wt% basado en alginato.",
+        "concentration_and_properties": {
+										"ID": ["Alg", "Alg/CuS0.5", "Alg/CuS1.0", "Alg/CuS1.5"],
+										"Alginate Concentration (wt%)": ["100.0", "100.0", "100.0", "100.0"],
+										"CuSNP Concentration (wt%)": ["0.0", "0.5", "1.0", "1.5"],
+										"Glycerol Concentration (wt%)": ["30.0", "30.0", "30.0", "30.0"],
+										"Thickness (µm)": ["33.2 ± 1.3", "39.6 ± 0.7", "40.1 ± 1.8", "41.2 ± 1.5"],
+										"Tensile Strength (MPa)": ["41.1 ± 0.3", "47.6 ± 1.4", "42.3 ± 1.8", "37.5 ± 1.7"],
+										"Elongation at Break (%)": ["8.5 ± 1.1", "13.7 ± 1.1", "14.1 ± 0.7", "14.8 ± 0.4"]
+									}
+    }
+}

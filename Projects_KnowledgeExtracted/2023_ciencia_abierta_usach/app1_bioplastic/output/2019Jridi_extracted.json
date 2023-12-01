@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "name_file": "2019Jridi.pdf",
+    "type_doc": "Article",
+    "title": "Development and characterization of grey triggerfish gelatin/agar bilayer and blend films containing vine leaves bioactive compounds",
+    "authors": "Mourad Jridi, Ola Abdelhedi, Nacim Zouari, Nahed Fakhfakh, Moncef Nasri",
+    "date_doc": "2019",
+    "doi": "10.1016/j.foodhyd.2018.10.039"
+  },
+  "data_extracted": {
+    "film_development": "- Se disolvieron polvos de gelatina (G) y agar (A) en agua destilada para obtener una concentración final del 3% (w/v) para cada uno.\n - Se añadió glicerol como plastificante a las soluciones de gelatina o agar en diferentes niveles (0, 5, 10, 15, 20 y 25%).\n - Las películas resultantes se obtuvieron mediante el vertido de 25 ml de solución formadora de película (FFS) en una placa de resina de silicona con bordes (12 cm x 12 cm), secadas a 25 °C con una humedad relativa (HR) del 50%, y luego se retiraron manualmente.\n - Para preparar la película mezclada (Bl-F), se mezclaron 12.5 ml de G-FFS y 12.5 ml de A-FFS durante 30 minutos a 40 °C.\n - Para la película bilaminada (Bi-F), primero se vertieron 12.5 ml de G-FFS en la placa y se secaron hasta formar una superficie compacta. Luego, se vertieron 12.5 ml de A-FFS sobre la capa de gelatina seca y se secaron nuevamente.\n - Finalmente, todas las películas se retiraron manualmente. Las películas resultantes de agar y gelatina se denominaron A-F y G-F respectivamente.\n - Para las películas bioactivas, se dispersó extracto de hojas de vid (VLE) en cada FFS en concentraciones de 5 o 10 mg/mL y se mezclaron a 25 °C hasta su completa solubilidad.",
+    "materials": "Gelatina y agar: usados en una concentración del 3% (w/v) en agua destilada.\n - Glicerol: añadido como plastificante en diferentes concentraciones (0, 5, 10, 15, 20, 25%).\n - Extracto de hojas de vid (VLE): añadido a las películas bioactivas en concentraciones de 5 o 10 mg/mL​​.",
+    "concentration_and_properties": {
+									"ID": ["G-F", "A-F", "Bi-F", "F-Bi-VLE (5 mg/mL)", "F-Bi-VLE (10 mg/mL)", "Bl-F", "F-Bl-VLE (5 mg/mL)", "F-Bl-VLE (10 mg/mL)"],
+									"Gelatina": ["3.0", "0.0", "1.5", "1.5", "1.5", "1.5", "1.5", "1.5"],
+									"Agar": ["0.0", "3.0", "1.5", "1.5", "1.5", "1.5", "1.5", "1.5"],
+									"Glicerol": ["15.0", "15.0", "15.0", "15.0", "15.0", "15.0", "15.0", "15.0"],
+									"VLE": ["0.0", "0.0", "0.0", "5.0", "10.0", "0.0", "5.0", "10.0"],
+									"Thickness (µm)": ["81.05 ± 0.10", "81.04 ± 0.15", "81.00 ± 0.10", "81.10 ± 0.10", "81.12 ± 0.10", "81.60 ± 0.15", "81.30 ± 0.10", "81.14 ± 0.18"],
+									"Tensile Strength (MPa)": ["63.45 ± 2.65", "47.56 ± 0.45", "68.15 ± 1.20", "71.58 ± 2.20", "69.50 ± 0.45", "64.50 ± 2.60", "62.50 ± 1.10", "60.50 ± 1.80"],
+									"Elongation at Break (%)": ["7.59 ± 0.45", "3.15 ± 0.70", "21.20 ± 1.91", "20.12 ± 1.27", "19.5 ± 1.67", "27.25 ± 3.01", "25.20 ± 1.10", "22.36 ± 3.20"]
+								}
+  }
+}

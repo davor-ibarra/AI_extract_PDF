@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "name_file": "2019Kumar.pdf",
+    "type_doc": "Article",
+    "title": "Bionanocomposite films of agar incorporated with ZnO nanoparticles as an active packaging material for shelf life extension of green grape",
+    "authors": "Santosh Kumar*, Jyotish Chandra Boro, Dharitri Ray, Avik Mukherjee, Joydeep Dutta",
+    "date_doc": "2019",
+    "doi": "10.1016/j.heliyon.2019.e01867"
+  },
+  "data_extracted": {
+    "film_development": "1. Se preparó agar fundido (100 mL; 2.5 %) disolviendo 2.5 g de polvo de agar en 100 mL de agua desionizada (dd H2O) en tres matraces separados. Los matraces se calentaron a 90 °C durante 1 hora con agitación continua a 1000 rpm.\n 2. Se añadieron 50 mg y 100 mg de nanopartículas de ZnO (ZnONPs) (sintetizadas añadiendo 1 g de ZnNO3.6H2O en 10 mL de extracto acuoso de fruta) en dos de los matraces con 2 % (w/w) y 4 % (w/w) de agar respectivamente. Se preparó una muestra de control en el tercer matraz sin añadir nanopartículas.\n 3. Las muestras se calentaron y mezclaron adicionalmente a 90 °C durante 30 minutos a 1000 rpm.\n 4. Se añadió 0.75 g de glicerol en las tres mezclas de muestra a una tasa del 30 % (w/w) de agar como plastificante.\n 5. Las mezclas se calentaron hasta que se convirtieron en un líquido pegajoso y 15 mL de esta solución final formadora de película (FFS) se vertió inmediatamente en placas de Petri de vidrio de dimensiones (100 × 15 mm).\n 6. Las muestras se dejaron asentar a temperatura ambiente durante 24 horas y luego se secaron en un horno a 40 °C durante 2 horas.\n 7. Las películas preparadas se retiraron de las placas de vidrio y se dejaron en condiciones ambientales durante 2 horas.\n  8. Finalmente, las películas se almacenaron en bolsas de plástico herméticas.",
+    "materials": "- Agar: utilizado en una concentración del 2.5 % (w/v).\n - Nanopartículas de ZnO (ZnONPs): añadidas en concentraciones de 2 % (w/w) y 4 % (w/w) del agar.\n - Glicerol: añadido como plastificante a una tasa del 30 % (w/w) del agar​​.",
+    "concentration_and_properties": {
+									"Sample ID": ["Agar Control", "Agar-ZnONP 2%", "Agar-ZnONP 4%"],
+									"Agar (% w/w)": ["2.5", "2.5", "2.5"],
+									"ZnONPs (% w/w)": ["0.0", "2.0", "4.0"],
+									"Glicerol (% w/w)": ["0.75", "0.75", "0.75"],
+									"Thickness (μm)": ["54.87 ± 3.4", "75.33 ± 2.7", "77.34 ± 4.1"],
+									"Tensile Strength (MPa)": ["51.02 ± 1.5", "29.19 ± 0.9", "20.68 ± 2.3"],
+									"Elongation at Break (%)": ["27.9 ± 0.6", "32.63 ± 1.1", "37.23 ± 1.9"]
+								}
+  }
+}

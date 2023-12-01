@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name_file": "2020Lan.pdf",
+    "type_doc": "Article",
+    "title": "Investigation of Ultrasonic Treatment on Physicochemical Structural and Morphological Properties of Sodium Alginate/AgNPs/Apple Polyphenol Films and Its Preservation Effect on Strawberry",
+    "authors": "Wenting Lan, Siying Li, Shiti Shama, Yuqing Zhao, Dur E. Sameen, Li He, Yaowen Liu",
+    "date_doc": "2020",
+    "doi": "10.3390/polym12092096"
+  },
+  "data_extracted": {
+    "film_development": "1. Se prepararon películas compuestas de SA/AgNPs/APP mediante el método de fundición. La solución contenía APP (1%), glicerol (2%) y diferentes proporciones de SA:AgNPs (masa total 2%), como 10:0, 9:1, 8:2, 7:3, 6:4.\n 2. Primero, se disolvieron diferentes cantidades de SA en agua destilada para obtener una solución acuosa de SA.\n 3. Se añadieron polvo de APP y glicerol y se mezclaron con un agitador para obtener una solución precursora.\n 4. La solución se vertió sobre una placa de vidrio y se secó en un horno a 50 °C durante 6 horas.\n 5. Tras obtener las películas de SA/APP, se fijaron como colector para la electroaspersión.\n 6. Los polvos de AgNPs se añadieron a 5 mL de etanol absoluto y se dispersaron ultrasónicamente durante 0, 10, 20, 30 y 40 minutos.\n 7. La suspensión se filtró y se impulsó continuamente a través de una jeringa, usando un aparato de electroaspersión con una fuente de alimentación de 10 kV.\n 8. Finalmente, la película compuesta se sumergió en una solución acuosa de cloruro de calcio al 2% para el entrecruzamiento (2 minutos) y luego se secó al aire para obtener una película compuesta de SA/AgNPs/APP​​.",
+    "materials": "- Alginato de sodio (SA): Usado en diferentes proporciones con las AgNPs.\n - Nanopartículas de plata (AgNPs): Incluidas en la composición en varias proporciones.\n - Polifenoles de manzana (APP): Añadidos en una concentración del 1%.\n - Glicerol: Utilizado como plastificante en una concentración del 2%.",
+    "concentration_and_properties": {
+									"ID": ["10:0", "6:4", "7:3", "8:2", "9:1"],
+									"SA (%)": ["100.0", "60.0", "70.0", "80.0", "90.0"],
+									"AgNPs (%)": ["0.0", "40.0", "30.0", "20.0", "10.0"],
+									"Elongation at Break (%)": ["26.1 ± 1.39", "27.09 ± 1.41", "29.18 ± 1.59", "28.9 ± 1.54", "27.49 ± 1.42"],
+									"Tensile Strength (MPa)": ["28.06 ± 1.55", "21.5 ± 1.01", "23.94 ± 1.13", "24.07 ± 1.18", "26.98 ± 1.32"]
+								}
+  }
+}
